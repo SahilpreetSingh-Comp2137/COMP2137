@@ -1,0 +1,15 @@
+---Host/Student info----
+
+Running on Wed Mar  5 04:32:31 PM EST 2025
+Run by Sahilpreet - () on host
+ Static hostname: generic-vm
+      Machine ID: f1acee15566540bcbdb2ed6b8c60f0dc
+Operating System: Ubuntu 24.04.2 LTS
+9ac9629390cbcae160fd061a74ce1178  ./check-assign2-script.sh - d41d8cd98f00b204e9800998ecf8427e  -
+------------------------
+
+---Start of Assignment2.sh Check------
+---Running makecontainers.sh----------
+---Retrieving assignment2.sh script---
+Retrieved assignment2 script
+Failed to copy assignment2.sh to server1

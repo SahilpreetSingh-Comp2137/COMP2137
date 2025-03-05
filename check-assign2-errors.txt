@@ -1,0 +1,3 @@
+Host server1-mgmt not found in /home/Sahilpreet/.ssh/known_hosts
+ssh: Could not resolve hostname server1-mgmt: Temporary failure in name resolution
+scp: Connection closed

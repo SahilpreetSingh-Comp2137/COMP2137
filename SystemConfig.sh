@@ -19,10 +19,10 @@ network:
     eth0:
       addresses: [192.168.16.21/24]
 EOF
-    # Fix permissions on netplan file
+    #  permissions on netplan file
     chmod 600 /etc/netplan/01-netcfg.yaml
     
-    # Apply network changes with proper error handling
+    # Apply network changes 
     echo "Applying network configuration..."
     # Check if systemd-networkd is running
     if systemctl is-active --quiet systemd-networkd; then
@@ -31,7 +31,7 @@ EOF
         # Start networkd if not running
         systemctl start systemd-networkd
         netplan apply
-        # If still failing, try a different approach
+        # If failing, trying a different approach
         if [ $? -ne 0 ]; then
             echo "Using alternative network configuration method..."
             systemctl restart systemd-networkd

@@ -1,3 +1,15 @@
-Host server1-mgmt not found in /home/Sahilpreet/.ssh/known_hosts
-ssh: Could not resolve hostname server1-mgmt: Temporary failure in name resolution
-scp: Connection closed
+Warning: Permanently added 'server1-mgmt' (ED25519) to the list of known hosts.
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+Synchronizing state of apache2.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable apache2
+Synchronizing state of squid.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable squid
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+Error: Command not found
+Error: Command not found
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+Synchronizing state of apache2.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable apache2
+Synchronizing state of squid.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable squid
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.

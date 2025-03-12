@@ -1,6 +1,6 @@
 ---Host/Student info----
 
-Running on Wed Mar 12 02:49:18 PM EDT 2025
+Running on Wed Mar 12 02:54:19 PM EDT 2025
 Run by Sahilpreet - () on host
  Static hostname: generic-vm
       Machine ID: f1acee15566540bcbdb2ed6b8c60f0dc
@@ -10,10 +10,5 @@ Operating System: Ubuntu 24.04.2 LTS
 
 ---Start of Assignment2.sh Check------
 ---Running makecontainers.sh----------
-# Host server1-mgmt found: line 5
-# Host server1-mgmt found: line 6
-# Host server1-mgmt found: line 7
-/home/Sahilpreet/.ssh/known_hosts updated.
-Original contents retained as /home/Sahilpreet/.ssh/known_hosts.old
 ---Retrieving assignment2.sh script---
 Failed to retrieve assignment2.sh script using URL 'https://github.com/SahilpreetSingh-Comp2137/COMP2137/raw/main/assignment2.sh'

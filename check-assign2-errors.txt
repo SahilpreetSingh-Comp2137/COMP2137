@@ -1,2 +1,1 @@
-Host server1-mgmt not found in /home/Sahilpreet/.ssh/known_hosts
 assignment2.sh: Permission denied
